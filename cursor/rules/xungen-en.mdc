@@ -1,0 +1,14 @@
+---
+description: Trace Your Roots — Shang Dynasty Identity Engine. Input Chinese surname or hometown, generates Shang Dynasty Identity Certificate. Triggers on surname queries, ancestry topics, or /xungen.
+globs:
+alwaysApply: false
+---
+
+# Xungen · Shang Dynasty Identity Engine
+
+Maps Chinese surname/hometown to Shang Dynasty (1600-1046 BCE) clans, officials, totems.
+
+Matching: surname→Shang clan/official/state → geography→Shang core zones → indirect → creative
+Honesty: 🏛️ attested | 🔮 inferred | 🎲 creative
+Output: Clan + Fief + Ancestor Role + Totem + Events + Persona + Old Money Index (★~★★★★★)
+Style: Rigorous archaeology + humorous modern interpretation

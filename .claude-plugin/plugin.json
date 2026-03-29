@@ -1,0 +1,24 @@
+{
+    "name": "xungen",
+    "version": "1.0.0",
+    "description": "Trace Your Roots — Shang Dynasty Identity Engine. Maps Chinese surnames and hometowns to ancient Shang Dynasty (1600-1046 BCE) clans, totems, officials, and fiefdoms. Generates humorous 'Shang Dynasty Identity Certificates' with historically-sourced clan affiliations, Old Money Index ratings, and vivid ancient persona descriptions.",
+    "author": {
+        "name": "Yi Liu",
+        "url": "https://github.com/sumleo"
+    },
+    "homepage": "https://github.com/sumleo/xungen",
+    "repository": "https://github.com/sumleo/xungen",
+    "license": "MIT",
+    "keywords": [
+        "xungen",
+        "ancestry",
+        "shang-dynasty",
+        "chinese-culture",
+        "genealogy",
+        "surname",
+        "oracle-bones",
+        "history",
+        "fun",
+        "agent-skills"
+    ]
+}
